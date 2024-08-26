@@ -1,0 +1,16 @@
+# Archivo de configuración
+
+# Configuración de la aplicación
+app_name = "Mi Aplicación"
+app_version = "1.0.0"
+app_port = 8080
+
+# Configuración de la base de datos
+db_host = "localhost"
+db_port = 3306
+db_username = "root"
+db_password = "password"
+db_name = "mi_base_de_datos"
+
+++++   Sin cambios osea es la inicial
+1.- este es el primer cambios
